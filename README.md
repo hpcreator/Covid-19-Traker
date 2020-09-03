@@ -8,5 +8,10 @@ It contains beautiful UI and simple coding techniques.
 
 Hope you guys like it.
 
+**Output Demo**
+
+
+![covidTracker](https://user-images.githubusercontent.com/53334370/92068962-259fc780-eda0-11ea-90fd-95ec8f270b80.gif)
+
 
 Thank You !!
